@@ -6,7 +6,7 @@ This repository contains the backend development of Financial System, made in Ja
 
 ## Objective
 
-The main objective of Financial System is providing control and maintenance of personal budget. 
+The main purpose of Financial System is providing control and maintenance of personal budget for any person or family. 
 
 ## Modules
 
