@@ -12,7 +12,7 @@ The main objective of Financial System is providing control and maintenance of p
 
 The main modules of Financial System are: 
 
-- Income sources
+- Incoming Sources
 - Accounts Payable
 - Accounts Receivable
 - Budgets
